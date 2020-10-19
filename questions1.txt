@@ -1,0 +1,36 @@
+MadLevel1 Questions:
+What are the names of the latest three versions of Android?4
+- Android Pie, Andorid 10 and Androi 11
+
+
+
+What does the abbreviation ART stand for?
+- Android Runtime
+
+What is Android Jetpack?
+- Jetpack is a suite of libraries to help developers follow best practices, reduce boilerplate code, and write code that works consistently across Android versions
+
+Describe the difference between the fixed, wrap_content and match_constraint setting of the constraint layout?
+- fixed is een standaard grote van een item, wrap content neemt de grote van de inhoud van het item aan, en match constraint neemt de grote va  het item aan waar
+hij gaan gelinkt is.
+
+What does the abbreviation DP stand for and why do we need them?
+- Device-independent pixel, om je scherm op verschillende formaten te laten werken.
+
+What is the purpose of the string.xml file?
+- hier kun je alle text uit je app samenvoegen zodat je een plek heb waar alles staat en je het makkelijk aan kan passen. 
+
+Why is the layout in Android specified by .xml files?  Why not just have the layout in the code (Kotlin or Java)?
+- Using Android's XML vocabulary, you can quickly design UI layouts and the screen elements they contain, in the same way you create web pages in HTML — with a series of nested elements.
+
+What kind of information can be found in the manifest file?
+- The manifest file describes essential information about your app to the Android build tools, the Android operating system, and Google Play
+
+What is the purpose of view binding in Android?
+- View binding is a feature that allows you to more easily write code that interacts with views.
+
+Describe how you can log the value of variables in the Android Studio system log, and how you can find them back.
+Log.d(key, value) in de logging panel
+
+Describe how you can debug your app in Android Studio, e.g. by setting breakpoints and inspecting the value of variables.
+- enable debugging and run  in debug mode. 
